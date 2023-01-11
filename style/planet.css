@@ -16,4 +16,7 @@ nav {
     position: fixed;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    width: 86%;
+    height: 8vh;
 }
