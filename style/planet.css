@@ -19,4 +19,6 @@ nav {
     align-items: center;
     width: 86%;
     height: 8vh;
+    padding: 10px 30px;
+    z-index: 1000;
 }
