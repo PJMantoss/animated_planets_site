@@ -36,3 +36,7 @@ nav .nav-link ul {
 nav .nav-link ul li {
     padding: 0 4px;
 }
+
+nav .nav-link ul li img {
+    transform: scale(0.45);
+}
