@@ -39,6 +39,6 @@ nav .nav-links ul li {
 
 nav .nav-links ul li img {
     width: 50px;
-    color: #fff;
     transform: scale(0.45);
+    z-index: 2000;
 }
