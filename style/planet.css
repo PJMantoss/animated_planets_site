@@ -29,14 +29,15 @@ nav {
     font-size: 1rem;
 }
 
-nav .nav-link ul {
+nav .nav-links ul {
     display: flex;
 }
 
-nav .nav-link ul li {
+nav .nav-links ul li {
     padding: 0 4px;
 }
 
-nav .nav-link ul li img {
+nav .nav-links ul li img {
+    width: 50px;
     transform: scale(0.45);
 }
