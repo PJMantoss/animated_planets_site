@@ -9,7 +9,7 @@
 body {
     font-family: 'roboto';
     overflow-x: hidden;
-    background: #fff;
+    background: #000;
 }
 
 nav {
@@ -39,5 +39,6 @@ nav .nav-links ul li {
 
 nav .nav-links ul li img {
     width: 50px;
+    color: #fff;
     transform: scale(0.45);
 }
