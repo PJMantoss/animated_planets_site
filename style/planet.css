@@ -64,3 +64,7 @@ section {
     width: 45%;
     filter: brightness(0.5);
 }
+
+.text h1 {
+    font-family: 'AlphaCentauri' !important;
+}
