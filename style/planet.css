@@ -59,3 +59,8 @@ section {
     left: 10vw !important;
     top: 20vh !important;
 }
+
+.rock1 img {
+    width: 45%;
+    filter: brightness(0.5);
+}
