@@ -51,4 +51,5 @@ section {
 .bg img {
     width: 110vw;
     height: 110vh;
+    filter: brightness(0.6);
 }
