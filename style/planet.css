@@ -53,3 +53,9 @@ section {
     height: 110vh;
     filter: brightness(0.6);
 }
+
+.rock1{
+    position: absolute !important;
+    left: 10vw !important;
+    
+}
