@@ -45,4 +45,5 @@ nav .nav-links ul li img {
 
 section {
     height: 100vh;
+    overflow: hidden;
 }
