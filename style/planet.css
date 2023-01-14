@@ -67,6 +67,8 @@ section {
 
 .text h1 {
     position: absolute;
+    top: 35vh;
+    left: 34vw;
     font-family: 'AlphaCentauri' !important;
     font-size: 5vw;
     color: #fff;
