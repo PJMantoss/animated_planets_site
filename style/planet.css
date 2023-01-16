@@ -82,5 +82,5 @@ section {
     left: 34vw;
     top: 24vh;
     filter: brightness(0.7);
-    z-index: -1;
+    z-index: 1;
 }
