@@ -98,3 +98,7 @@ section {
     filter: brightness(0.8);
     z-index: 2;
 }
+
+.fore {
+    width: 50%;
+}
