@@ -93,4 +93,6 @@ section {
 
 .mid img {
     width: 100%;
+    left: -20px;
+    top: 20vh;
 }
