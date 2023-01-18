@@ -90,3 +90,7 @@ section {
     bottom: 100px !important;
     top: unset;
 }
+
+.mid img {
+    width: 100%;
+}
