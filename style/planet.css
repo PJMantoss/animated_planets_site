@@ -84,3 +84,7 @@ section {
     filter: brightness(0.7);
     z-index: 1;
 }
+
+.mid {
+    left: -150px !important;
+}
