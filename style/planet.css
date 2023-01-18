@@ -101,4 +101,6 @@ section {
 
 .fore {
     width: -50px !important;
+    top: -200px !important;
+    bottom: 0% !important;
 }
