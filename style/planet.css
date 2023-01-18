@@ -95,4 +95,5 @@ section {
     width: 100%;
     left: -20px;
     top: 20vh;
+    filter: brightness(0.6);
 }
