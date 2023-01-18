@@ -88,7 +88,7 @@ section {
 .mid {
     left: -150px !important;
     bottom: 100px !important;
-    top: unset;
+    top: unset !important;
 }
 
 .mid img {
