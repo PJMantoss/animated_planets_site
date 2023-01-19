@@ -100,7 +100,7 @@ section {
 }
 
 .fore {
-    width: -50px !important;
+    right: -50px !important;
     bottom: -200px !important;
     top: 0% !important;
     left: unset !important;
