@@ -105,3 +105,7 @@ section {
     top: 0% !important;
     left: unset !important;
 }
+
+.fore img {
+    width: 400px;
+}
