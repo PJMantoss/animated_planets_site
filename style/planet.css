@@ -130,6 +130,8 @@ section {
 
 .planet-links {
     display: flex;
+    justify-content: space-evenly;
+    list-style: none;
     width: 95%;
     height: 5vh;
     position: absolute;
