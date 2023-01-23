@@ -129,6 +129,7 @@ section {
 }
 
 .planet-links {
+    display: flex;
     width: 95%;
     height: 5vh;
     position: absolute;
