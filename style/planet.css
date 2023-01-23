@@ -118,3 +118,8 @@ section {
     height: 100vh;
     position: relative;
 }
+
+.rockbg1{
+    position: absolute;
+    transform: scale(0.2);
+}
