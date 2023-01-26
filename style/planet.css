@@ -151,3 +151,7 @@ section {
 .swiper-pagination-clickable .swiper-pagination-bullets {
     background: transparent;
 }
+
+.swiper-container {
+    position: absolute;
+}
