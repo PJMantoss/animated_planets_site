@@ -147,3 +147,7 @@ section {
     color: #fff;
     opacity: 1;
 }
+
+.swiper-pagination-clickable .swiper-pagination-bullets {
+    background: transparent;
+}
