@@ -167,4 +167,6 @@ section {
 
 .swiper-slide{
     height: 400px !important;
+    width: 90px !important;
+    background: transparent;
 }
