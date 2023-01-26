@@ -137,3 +137,8 @@ section {
     position: absolute;
     bottom: 0;
 }
+
+.planet-links .swiper-pagination-bullets {
+    opacity: 0;
+    outline: none;
+}
