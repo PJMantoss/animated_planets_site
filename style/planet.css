@@ -144,5 +144,6 @@ section {
 }
 
 .planet-links .swiper-pagination-active {
-    
+    color: #fff;
+    opacity: 1;
 }
