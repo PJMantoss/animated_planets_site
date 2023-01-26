@@ -139,6 +139,10 @@ section {
 }
 
 .planet-links .swiper-pagination-bullets {
-    opacity: 0;
+    opacity: 0.2;
     outline: none;
+}
+
+.planet-links .swiper-pagination-active {
+    
 }
