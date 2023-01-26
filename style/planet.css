@@ -160,3 +160,7 @@ section {
     left: 0;
     right: 0;
 }
+
+.swiper-wrapper{
+    transition-delay: 0.5s;
+}
