@@ -170,3 +170,7 @@ section {
     width: 90px !important;
     background: transparent;
 }
+
+.swiper-slide:nth-child(1) .slider-img {
+    background-image: url("");
+}
