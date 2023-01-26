@@ -164,3 +164,7 @@ section {
 .swiper-wrapper{
     transition-delay: 0.5s;
 }
+
+.swiper-slide{
+    height: 400px !important;
+}
